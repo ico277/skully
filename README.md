@@ -1,0 +1,2 @@
+# skully
+EFI bootloader :skull:
